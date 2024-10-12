@@ -17,7 +17,7 @@
 
   ### 🔍 Curious and motivated
 
-  Always eager to learn, I am motivated by a desire to grow and continuously improve :
+  Always seeking new knowledge, I am constantly looking to learn and grow :
 
   - **Continuous learning** : I constantly explore new tools and technologies to enhance my skills and adapt to emerging trends.
   - **Creativity and innovation** : I use every personal project as an opportunity to push boundaries and test new ideas.
@@ -114,7 +114,7 @@
 
   ### 🔍 Curieux et motivé
 
-  Toujours en quête de nouvelles connaissances, je cherche à apprendre et de progresser en permanence : 
+  Toujours en quête de nouvelles connaissances, je cherche en permanence à apprendre et progresser : 
 
   - **Apprentissage continu** : J’explore sans cesse de nouveaux outils et technologies pour améliorer mes compétences et m’adapter aux nouvelles tendances.
   - **Créativité et innovation** : Je profite de chaque projet personnel pour repousser les limites et tester des idées nouvelles.
